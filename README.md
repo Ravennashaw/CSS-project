@@ -12,4 +12,9 @@
 ## Project Description
 This project aims to simulate and analyze the dynamics of self-organized criticality (SoC) and its implications in financial markets using a modified 2D Bak-Sneppen model. By introducing new information into the system and observing the resulting avalanches, we seek to understand how small changes can influence significant events, in addition to the behavior of financial markets in response to new economic data or random events.
 
-## 
+## File
+- Bak-Sneppen-model_2_final.ipynb: Jupyter notebook file of our code.
+
+- animation coding.ipynb: Addition Jupyter notebook file for animation part.
+
+- Reference: Folder for reference.
