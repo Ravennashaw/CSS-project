@@ -18,3 +18,5 @@ This project aims to simulate and analyze the dynamics of self-organized critica
 - animation coding.ipynb: Addition Jupyter notebook file for animation part.
 
 - Reference: Folder for reference.
+
+- final_presantation.pdf: The file for our presantation.
